@@ -1,3 +1,5 @@
+# Credits for: Capcom and Hirohiko Araki
+
 # Select your language:
 - [English](#eng)
 - [Português](#pt-br)
