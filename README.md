@@ -5,6 +5,7 @@
 - [Italiano](#it)
 
 #
+# **<a href="https://www.mediafire.com/file/aka625ap5iw91lv/SLPM-65140.7z/file." target="_blank">Download</a>**
 #
 
 # ENG
@@ -16,7 +17,7 @@ Make sure your game's serial number is "SLPM-65140" for it to work perfectly.
 # How to install, activate and configure:
 - **Installation and Download:**
 
-  **Download** the file from the following link: **https://www.mediafire.com/file/aka625ap5iw91lv/SLPM-65140.7z/file.**
+  **Download** the file from the following link: **[Download](download)**
   
   This texture pack is for the PCSX2 emulator and its version. To install this texture pack, extract the files and move the "SLPM-65140" folder to the folder where you normally store the textures you use in the emulator, by default it is "textures".
 
