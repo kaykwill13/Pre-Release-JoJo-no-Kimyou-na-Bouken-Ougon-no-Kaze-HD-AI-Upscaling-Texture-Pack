@@ -151,6 +151,8 @@ Certifique-se de que o "número de série" do seu jogo seja "SLPM-65140" para qu
 
   「Saturation」→「65%」
 
+#
+#
 
 # IT
 
