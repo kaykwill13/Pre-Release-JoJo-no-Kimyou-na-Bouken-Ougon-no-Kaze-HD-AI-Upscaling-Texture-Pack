@@ -1,3 +1,9 @@
+# Select your language:
+- [English](#eng)
+- [Português](#pt-br)
+- [日本語](#jp)
+- [Italiano](#it)
+
 # ENG
 # Important Note.
 This texture pack is NOT YET COMPLETE; it still lacks extra content and several small adjustments to the textures, corrections such as defects made by the AI ​​upscaling. I will try to do this little by little, but I hope to finish it this year. I was only able to make this pack because I was on vacation from college, because during that time it would have been rushed and poor quality. But since the base game and most of the extra resources are done, I can make these adjustments more calmly.
