@@ -4,6 +4,9 @@
 - [日本語](#jp)
 - [Italiano](#it)
 
+#
+#
+
 # ENG
 # HD Texture Pack with AI Upscaling for JoJo no Kimyou na Bouken: Ougon no Kaze (JoJo's Bizarre Adventure: Golden Wind).
 This is a high-resolution texture pack for the PS2 game "JoJo no Kimyou na Bouken: Ougon no Kaze".
